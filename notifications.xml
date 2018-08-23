@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Android Notification Group" displayType="NONE" />
+  </component>
+</application>
