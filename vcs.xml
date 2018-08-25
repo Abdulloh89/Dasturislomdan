@@ -34,6 +34,10 @@
           <option name="url" value="https://github.com/gesta/silviTS.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jfeinstein10/SlidingMenu.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\android" />
