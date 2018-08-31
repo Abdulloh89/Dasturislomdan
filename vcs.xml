@@ -58,6 +58,10 @@
           <option name="url" value="https://github.com/bookdash/bookdash-android-app.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/dogriffiths/HeadFirstAndroid.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\android" />
